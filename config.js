@@ -1,5 +1,6 @@
 module.exports = {
   platform: "github",
+  gitAuthor: "H4rryK4ne <39696020+H4rryK4ne@users.noreply.github.com>",
 
   repositories: [
     "H4rryK4ne/renovate-runner",
