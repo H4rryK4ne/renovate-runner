@@ -2,6 +2,7 @@ module.exports = {
   platform: "github",
   gitAuthor: "H4rryK4ne <39696020+H4rryK4ne@users.noreply.github.com>",
 
+  ignorePrAuthor: true,
   repositories: [
     "H4rryK4ne/renovate-runner",
     "H4rryK4ne/update-mypy-hook",
