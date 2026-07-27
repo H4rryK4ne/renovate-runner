@@ -1,6 +1,6 @@
 module.exports = {
   platform: "github",
-  gitAuthor: "H4rryK4ne <39696020+H4rryK4ne@users.noreply.github.com>",
+  gitAuthor: "Renovate-Bot <309104396+H4rryK4ne-Renovate-Bot@users.noreply.github.com>",
 
   ignorePrAuthor: true,
   repositories: [
