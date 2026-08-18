@@ -1,6 +1,6 @@
 services:
   renovate:
-    image: renovate/renovate:43.280.4
+    image: renovate/renovate:43.281.0
     init: true
     restart: "no"
     env_file:
